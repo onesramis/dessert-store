@@ -1,0 +1,102 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "hello_world": "Hello, {name} from en!",
+  "forms": {
+    "sign-up": {
+      "title": "Create your account",
+      "subtitle": "Enter the fields below to get started",
+      "google": "Continue with Google",
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Please enter your email address"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Please enter your password"
+      },
+      "submit": "Create account",
+      "already-member": "Already have an account?",
+      "alternative-method": "Login",
+      "tab-title": "Register"
+    },
+    "fields": {
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Please enter your email address"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Please enter your password"
+      },
+      "new-password": "New Password",
+      "confirm-password": "Confirm Password"
+    },
+    "errors": {
+      "email": {
+        "already-taken": "Email already taken!",
+        "required": "Email is required",
+        "invalid": "Invalid email address"
+      },
+      "password": {
+        "required": "Password is required",
+        "min-8": "Be at least 8 characters long.",
+        "contains-letter": "Contain at least one letter.",
+        "contains-number": "Contain at least one number.",
+        "contains-special": "Contain at least one special character."
+      },
+      "unexpected": "Unexpected error happened, oops...",
+      "credentials": "Invalid email or password",
+      "password-mismatch": "Passwords didn't match",
+      "token-missing": "Missing token",
+      "token-invalid": "Invalid token"
+    },
+    "google": "Continue with Google",
+    "messages": {
+      "verification": "Verification required",
+      "verification-text": "We've sent you an email for further instructions",
+      "reset-link": "Reset link",
+      "reset-link-text": "We've sent you an email to reset your password",
+      "reset-password": "Password reset",
+      "reset-password-text": "Your password has been reset."
+    },
+    "back-to-login": "Back to Login",
+    "or": "or",
+    "processing": "Processing...",
+    "sign-in": {
+      "title": "Login to account",
+      "subtitle": "Enter your credentials to access your account",
+      "submit": "Login",
+      "already-member": "No account yet?",
+      "alternative-method": "Create account",
+      "tab-title": "Login",
+      "forgot-password": "Forgot password?"
+    },
+    "forgot-password": {
+      "title": "Forgot password",
+      "subtitle": "We'll send you email to reset your password",
+      "submit": "Send reset link",
+      "tab-title": "Forgot password"
+    },
+    "reset-password": {
+      "title": "Reset password",
+      "subtitle": "Enter the details below to reset your password",
+      "submit": "Reset password",
+      "tab-title": "Reset password"
+    }
+  },
+  "user-button": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "log-out": "Log Out"
+  },
+  "buttons": {
+    "add-to-cart": "Add to Cart"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "order-total-title": "Order total",
+    "checkout-btn-label": "Checkout",
+    "checkout-btn-loading": "Processsing...",
+    "empty-text": "Your added items will appear here"
+  }
+}

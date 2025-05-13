@@ -1,0 +1,102 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hello, {name} from fr!",
+	"forms": {
+		"sign-up": {
+			"title": "Créez votre compte",
+			"subtitle": "Remplissez les champs ci-dessous pour commencer",
+			"google": "Continuer avec Google",
+			"email": {
+				"label": "Adresse email",
+				"placeholder": "Veuillez entrer votre adresse e-mail"
+			},
+			"password": {
+				"label": "Mot de passe",
+				"placeholder": "Veuillez entrer votre mot de passe"
+			},
+			"submit": "Créer un compte",
+			"already-member": "Vous avez déjà un compte ?",
+			"alternative-method": "Se connecter",
+			"tab-title": "Registre"
+		},
+		"fields": {
+			"email": {
+				"label": "Adresse email",
+				"placeholder": "Veuillez entrer votre adresse e-mail"
+			},
+			"password": {
+				"label": "Mot de passe",
+				"placeholder": "Veuillez entrer votre mot de passe"
+			},
+			"new-password": "Nouveau mot de passe",
+			"confirm-password": "Confirmez le mot de passe"
+		},
+		"errors": {
+			"email": {
+				"already-taken": "Email déjà pris !",
+				"required": "L'e-mail est obligatoire",
+				"invalid": "Adresse e-mail invalide"
+			},
+			"password": {
+				"required": "Le mot de passe est requis",
+				"min-8": "Avoir au moins 8 caractères de long.",
+				"contains-letter": "Contient au moins une lettre.",
+				"contains-number": "Contient au moins un chiffre.",
+				"contains-special": "Contient au moins un caractère spécial."
+			},
+			"unexpected": "Une erreur inattendue s'est produite, oups...",
+			"credentials": "E-mail ou mot de passe invalide",
+			"password-mismatch": "Les mots de passe ne correspondent pas",
+			"token-missing": "Jeton manquant",
+			"token-invalid": "Jeton invalide"
+		},
+		"google": "Continuer avec Google",
+		"messages": {
+			"verification": "Vérification requise",
+			"verification-text": "Nous vous avons envoyé un e-mail pour obtenir des instructions supplémentaires",
+			"reset-link": "Réinitialiser le lien",
+			"reset-link-text": "Nous vous avons envoyé un e-mail pour réinitialiser votre mot de passe",
+			"reset-password": "Réinitialisation du mot de passe",
+			"reset-password-text": "Votre mot de passe a été réinitialisé."
+		},
+		"back-to-login": "Retour à la connexion",
+		"or": "ou",
+		"processing": "Traitement...",
+		"sign-in": {
+			"title": "Connectez-vous au compte",
+			"subtitle": "Entrez vos identifiants pour accéder à votre compte",
+			"submit": "Se connecter",
+			"already-member": "Pas encore de compte ?",
+			"alternative-method": "Créer un compte",
+			"tab-title": "Se connecter",
+			"forgot-password": "Mot de passe oublié?"
+		},
+		"forgot-password": {
+			"title": "Mot de passe oublié",
+			"subtitle": "Nous vous enverrons un e-mail pour réinitialiser votre mot de passe",
+			"submit": "Envoyer le lien de réinitialisation",
+			"tab-title": "Mot de passe oublié"
+		},
+		"reset-password": {
+			"title": "Réinitialiser le mot de passe",
+			"subtitle": "Saisissez les informations ci-dessous pour réinitialiser votre mot de passe",
+			"submit": "Réinitialiser le mot de passe",
+			"tab-title": "Mot de passe oublié"
+		}
+	},
+	"user-button": {
+		"profile": "Profil",
+		"settings": "Paramètres",
+		"log-out": "Se déconnecter"
+	},
+	"buttons": {
+		"add-to-cart": "Ajouter au panier"
+	},
+	"cart": {
+		"title": "Votre panier",
+		"order-total-title": "Total de la commande",
+		"checkout-btn-label": "Vérifier",
+		"checkout-btn-loading": "Traitement...",
+		"empty-text": "Vos éléments ajoutés apparaîtront ici"
+	}
+}

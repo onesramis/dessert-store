@@ -1,0 +1,96 @@
+{
+  "categories": [
+    "Waffle",
+    "Crème Brûlée",
+    "Macaron",
+    "Tiramisu",
+    "Baklava",
+    "Pie",
+    "Cake",
+    "Brownie",
+    "Panna Cotta"
+  ],
+  "products": [
+    {
+      "name": "Waffle with Berries",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRk40wHTutRGScfhrdEUL2BXzuesVqMiCbJWIZ",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfR4E5phynDYMbiGxz3CRK7goS0FspH6wl9jQnX",
+      "price": 6.5,
+      "stripePriceId": "price_1R8eKfPo00gRAaxfA6Hnc6hf",
+      "stripeProductId": "prod_S2jojTvqGRvxod",
+      "category": "Waffle"
+    },
+    {
+      "name": "Vanilla Bean Crème Brûlée",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRkJ5knLutRGScfhrdEUL2BXzuesVqMiCbJWIZ",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRk6WKK0utRGScfhrdEUL2BXzuesVqMiCbJWIZ",
+      "price": 7.0,
+      "stripePriceId": "price_1R8eNpPo00gRAaxfZx099fkg",
+      "stripeProductId": "prod_S2jrC7Dfkfwqip",
+      "category": "Crème Brûlée"
+    },
+    {
+      "name": "Macaron Mix of Five",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRjyxvjw8nYplkgj9obnqZaQxwMeLRBzFEti7A",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfROnxF1vtJ3Wfz17yPNv4krn0dEpgHsSJUi2BQ",
+      "price": 8.0,
+      "stripePriceId": "price_1R8ePRPo00gRAaxf4IafLjRo",
+      "stripeProductId": "prod_S2jtYeXp7ghq1X",
+      "category": "Macaron"
+    },
+    {
+      "name": "Classic Tiramisu",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRmdFcc7vb0OcMP6Xx8uEgC1ASLYKwyGsHnaQt",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRXq4YVDO9XzOQKbmsp6fMh3x10PRNjkIEl5VB",
+      "price": 5.5,
+      "stripePriceId": "price_1R8eQqPo00gRAaxfjQoXUQtu",
+      "stripeProductId": "prod_S2juoHV8HZuYkm",
+      "category": "Tiramisu"
+    },
+    {
+      "name": "Pistachio Baklava",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRgXZCThwLCd4kIoMYxKwpGeqcrHXj6aAlt1fm",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRRD6URvYQOz6SMnNkoVJ0H3cagbELTheW2sDx",
+      "price": 4.0,
+      "stripePriceId": "price_1R8eSDPo00gRAaxfNxexWOWf",
+      "stripeProductId": "prod_S2jwhaGDg8sCtK",
+      "category": "Baklava"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRcFXG8sgLoS56txTC4gwGc0OvbsJuapHBhkM8",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRfNG5iEs4ExPDLOGwFKugjZA60IclNJ9oUBTm",
+      "price": 5.0,
+      "stripePriceId": "price_1R8eTjPo00gRAaxfRFJU3OHg",
+      "stripeProductId": "prod_S2jxHQ4jBXJl2z",
+      "category": "Pie"
+    },
+    {
+      "name": "Red Velvet Cake",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRQ1ha8ClRcfE6K4mVYIbx7qB2CLkDnzWtrueX",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRSF1vyWtgUBdpnQfbPtilZm8YFyuR074HS5oC",
+      "price": 4.5,
+      "stripePriceId": "price_1R8eUbPo00gRAaxfL4UlKIyo",
+      "stripeProductId": "prod_S2jyDFx2GLJamq",
+      "category": "Cake"
+    },
+    {
+      "name": "Salted Caramel Brownie",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRsyyYoCQ8xLBXDiWM2PAb3OFRtoQuczKgw5Gl",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRfv5Eck4ExPDLOGwFKugjZA60IclNJ9oUBTmb",
+      "price": 4.5,
+      "stripePriceId": "price_1R8eVdPo00gRAaxfgSY5AxRk",
+      "stripeProductId": "prod_S2jzYs0bV6LujK",
+      "category": "Brownie"
+    },
+    {
+      "name": "Vanilla Panna Cotta",
+      "image": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfRD530vHNiFO0ewLAsKgRftSUT21JuyChbP8W6",
+      "thumbnail": "https://9pzyreo5hk.ufs.sh/f/FakhaAqZbLfREzHHz0MeKibCVJIPcdSFk0nWA7w2Yvz6EM3e",
+      "price": 6.5,
+      "stripePriceId": "price_1R8eWnPo00gRAaxfvyhfbFyq",
+      "stripeProductId": "prod_S2k0rS9ZdqsCcA",
+      "category": "Panna Cotta"
+    }
+  ]
+}

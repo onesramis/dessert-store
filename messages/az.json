@@ -1,0 +1,23 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hello, {name} from az!",
+	"forms": {
+		"sign-up": {
+			"tab-title": "Qeydiyyat"
+		}
+	},
+	"user-button": {
+		"profile": "Hesab",
+		"settings": "Ayarlar",
+		"log-out": "Çıxış"
+	},
+	"buttons": {
+		"add-to-cart": "Əlavə et"
+	},
+	"cart": {
+		"title": "Səbətim",
+		"order-total-title": "Ümumi qiymət",
+		"checkout-btn-label": "Sifariş et",
+		"empty-text": " Məhsullarınız burada görünür"
+	}
+}
