@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from "svelte";
   import { page } from "$app/state";
-  import { goto, preloadData } from "$app/navigation";
+  import { goto, preloadData, pushState } from "$app/navigation";
   import { type Infer, type SuperValidated } from "sveltekit-superforms";
 
   import type { LoginSchema } from "../../routes/(auth)/lib/schema";
@@ -21,7 +21,9 @@
 
   const onOpenChange = (value: boolean) => {
     open = value;
-    history.back();
+    pushState(page.url, {
+      loginModal: false,
+    });
   };
 
   onMount(async () => {
