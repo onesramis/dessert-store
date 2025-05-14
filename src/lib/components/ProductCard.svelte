@@ -132,7 +132,10 @@
       src={product.image}
       layout="fullWidth"
       alt={product.name}
-      class="h-full rounded-lg object-cover"
+      class={[
+        "h-full rounded-lg border-2 border-transparent object-cover",
+        foundCartItem && "!border-primary",
+      ]}
     />
 
     {#if foundCartItem}
